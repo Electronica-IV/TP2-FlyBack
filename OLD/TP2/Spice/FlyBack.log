@@ -1,0 +1,25 @@
+Circuit: * C:\Users\BZeroL\OneDrive - ITBA\Education\ITBA\ITBA - Me\2023A\Electronica IV\TPs\Old\Electro-4-main\TP2\Spice\FlyBack.asc
+
+WARNING: Less than two connections to node NC_02.  This node is used by R:U1:18.
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:gnd)
+Ignoring empty pin current: Ix(u1:gnd)
+
+Date: Tue May 02 20:57:21 2023
+Total elapsed time: 56.365 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4299882
+traniter = 4299858
+tranpoints = 1224890
+accept = 913626
+rejected = 311264
+matrix size = 73
+fillins = 13
+solver = Normal
+Thread vector: 11.0/5.6[2] 2.7/3.3[1] 0.8/1.4[1] 0.4/1.2[1]  2592/500
+Matrix Compiler1: 3.64 KB object code size  1.8/0.7/[0.7]
+Matrix Compiler2: off  [0.7]/0.9/0.8
+
