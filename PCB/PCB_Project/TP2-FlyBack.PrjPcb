@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TCOCBXNM
 
 [Document3]
-DocumentPath=FlyBack.PcbLib
+DocumentPath=PCB\FlyBack.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -86,10 +86,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VLSVAMKD
+DocumentUniqueId=RAJARBXO
 
 [Document4]
-DocumentPath=PCB\FlyBack.PcbDoc
+DocumentPath=Lib\FlyBack.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
