@@ -1,0 +1,37 @@
+Net Status Report
+Filename     : D:\00 - ITBA\Electrónica 4\Trabajos Prácticos\TP2-Flyback\TP2-FlyBack\PCB\PCB_Project\PCB\V3.PcbDoc
+Date         : 12/5/2023
+Time         : 20:54:37
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    GND, Signal Layers Only, 286.286mm
+    GNDo1, Signal Layers Only, 93.5073mm
+    L, Signal Layers Only, 11.1816mm
+    N, Signal Layers Only, 18.5355mm
+    NetCS1_1, Signal Layers Only, 18.0393mm
+    NetCT_1, Signal Layers Only, 12.4386mm
+    NetCcom1_1, Signal Layers Only, 6.9289mm
+    NetCcom2_2, Signal Layers Only, 5.46mm
+    NetCss_1, Signal Layers Only, 3.2554mm
+    NetDS_1, Signal Layers Only, 26.558mm
+    NetDo1_1, Signal Layers Only, 7.7504mm
+    NetDo2_1, Signal Layers Only, 28.5776mm
+    NetLED1_2, Signal Layers Only, 5.885mm
+    NetLED2_2, Signal Layers Only, 7.46mm
+    NetQ1_1, Signal Layers Only, 11.9997mm
+    NetRT_1, Signal Layers Only, 2.8283mm
+    NetRT_2, Signal Layers Only, 7.6455mm
+    NetRfbA_2, Signal Layers Only, 5.2817mm
+    NetRfbB_1, Signal Layers Only, 8.0642mm
+    NetRrefa_1, Signal Layers Only, 6.747mm
+    NetRrefb_2, Signal Layers Only, 5.3947mm
+    VO1, Signal Layers Only, 60.8626mm
+    VO2, Signal Layers Only, 197.0423mm
+    Vcom, Signal Layers Only, 33.91mm
+    Vd, Signal Layers Only, 70.9164mm
+    Vfb, Signal Layers Only, 41.933mm
+    Vgg, Signal Layers Only, 8.6484mm
+    Vref, Signal Layers Only, 15.2598mm
+    Vx, Signal Layers Only, 9.3948mm
+count : 29
