@@ -1,37 +1,38 @@
 Net Status Report
-Filename     : D:\00 - ITBA\Electrónica 4\Trabajos Prácticos\TP2-Flyback\TP2-FlyBack\PCB\PCB_Project\PCB\V3.PcbDoc
-Date         : 12/5/2023
-Time         : 20:54:37
+Filename     : C:\Users\BZeroL\OneDrive - ITBA\Education\ITBA\ITBA - Me\2023A\Electronica IV\TPs\GitHub\TP2-FlyBack\PCB\PCB_Project\PCB\V3.PcbDoc
+Date         : 16/05/2023
+Time         : 20:01:08
 Time Elapsed : 00:00:00
 
 Nets, Layer, Length
-    GND, Signal Layers Only, 286.286mm
-    GNDo1, Signal Layers Only, 93.5073mm
+    GND, Signal Layers Only, 360.5663mm
+    GNDo1, Signal Layers Only, 92.2345mm
     L, Signal Layers Only, 11.1816mm
     N, Signal Layers Only, 18.5355mm
-    NetCS1_1, Signal Layers Only, 18.0393mm
+    NetCS1_1, Signal Layers Only, 20.728mm
     NetCT_1, Signal Layers Only, 12.4386mm
-    NetCcom1_1, Signal Layers Only, 6.9289mm
-    NetCcom2_2, Signal Layers Only, 5.46mm
+    NetCcom1_1, Signal Layers Only, 2.96mm
     NetCss_1, Signal Layers Only, 3.2554mm
-    NetDS_1, Signal Layers Only, 26.558mm
-    NetDo1_1, Signal Layers Only, 7.7504mm
+    NetDcc_1, Signal Layers Only, 4.44mm
+    NetDo1_1, Signal Layers Only, 7.715mm
     NetDo2_1, Signal Layers Only, 28.5776mm
-    NetLED1_2, Signal Layers Only, 5.885mm
+    NetLED1_2, Signal Layers Only, 6.785mm
     NetLED2_2, Signal Layers Only, 7.46mm
-    NetQ1_1, Signal Layers Only, 11.9997mm
+    NetQ1_1, Signal Layers Only, 5.7206mm
     NetRT_1, Signal Layers Only, 2.8283mm
-    NetRT_2, Signal Layers Only, 7.6455mm
-    NetRfbA_2, Signal Layers Only, 5.2817mm
-    NetRfbB_1, Signal Layers Only, 8.0642mm
+    NetRT_2, Signal Layers Only, 7.8818mm
+    NetRfbA_2, Signal Layers Only, 5.9855mm
+    NetRfbB_1, Signal Layers Only, 10.9982mm
     NetRrefa_1, Signal Layers Only, 6.747mm
     NetRrefb_2, Signal Layers Only, 5.3947mm
+    NetTPosc_1, Signal Layers Only, 2.9207mm
     VO1, Signal Layers Only, 60.8626mm
-    VO2, Signal Layers Only, 197.0423mm
-    Vcom, Signal Layers Only, 33.91mm
-    Vd, Signal Layers Only, 70.9164mm
-    Vfb, Signal Layers Only, 41.933mm
-    Vgg, Signal Layers Only, 8.6484mm
-    Vref, Signal Layers Only, 15.2598mm
-    Vx, Signal Layers Only, 9.3948mm
-count : 29
+    VO2, Signal Layers Only, 204.635mm
+    Vcom, Signal Layers Only, 37.0538mm
+    Vd, Signal Layers Only, 49.9595mm
+    Vds, Signal Layers Only, 33.6297mm
+    Vfb, Signal Layers Only, 46.4743mm
+    Vgg, Signal Layers Only, 8.5541mm
+    Vref, Signal Layers Only, 16.6038mm
+    Vx, Signal Layers Only, 13.7856mm
+count : 30

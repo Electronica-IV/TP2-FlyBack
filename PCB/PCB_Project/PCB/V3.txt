@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\BZeroL\OneDrive - ITBA\Education\ITBA\ITBA - Me\2023A\Electronica IV\TPs\GitHub\TP2-FlyBack\PCB\PCB_Project\PCB\V3.PcbDoc
+Date         : 16/05/2023
+Time         : 20:10:15
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 84
+    Connections routed, 84
+    Connections remaining, 0
+count : 4
